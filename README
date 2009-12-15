@@ -1,0 +1,1 @@
+This calculates the chances you'll stay under 11 with one more card. Make sure you call (survival-chance opponent your-card1 your-card2), not in any other order.
